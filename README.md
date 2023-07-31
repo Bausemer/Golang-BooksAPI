@@ -1,4 +1,3 @@
-# Golang-BooksAPI
-A simple books api to learn the basics of Golang
+# About this project
 
-Current video: https://www.youtube.com/watch?v=bj77B59nkTQ&t=1740s
+This project is based on the book <u>*"Let's Go" by Alex Edwards*</u> and serves the purpose of learning the programming language Golang.
